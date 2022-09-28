@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student at CREST, under the supervision of [Vianney Perchet](https://vianney.ai/), since September 2020. My PhD title is "Online Matching in Random Graphs". I am interested in statistics and learning theory, and more specifically in online learning and algorithms. My current topics of research are Online Matching and Multi-Armed bandits.
+I am a postdoc student at Harvard University under the supervision of Prof. Rajarshi Mukherjee and Prof. Subhabrata Sen. During my PhD I was advised by Alexandre Tsybakov (CREST/ENSAE). 
+I am interested in various topics such as minimax testing, local differential privacy, robust statistics, benign overfitting, nonparametric regression or low-rank tensor estimation.
 
-
-
-Before that I got an engineering degree from Ecole Polytechnique and graduated the master MVA (Machine Learning and Computer Vision) from ENS Paris-Saclay. 
+Before that I got an engineering degree from Ecole polytechnique and graduated both from ENSAE and from the master MVA (Machine Learning and Computer Vision) 
+from ENS Paris-Saclay.
 
 ------
 
