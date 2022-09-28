@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Flore Sentenac"
-description              : &description "PhD Student at CREST"
-url                      : https://floresentenac.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Julien Chhor"
+description              : &description ""
+url                      : https://julienchhor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/FloreSentenac.github.io"
+repository               : "academicpages/julienchhor.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Flore Sentenac"
-  avatar           : "ADB_7201-2.jpg"
-  bio              : "PhD Student at CREST"
-  location         : "Paris"
+  name             : "Julien Chhor"
+  avatar           : "IMG_7820.JPG"
+  bio              : ""
+  location         : "Boston"
   employer         :
   pubmed           : 
-  googlescholar    : https://scholar.google.com/citations?user=3DFFHpsAAAAJ&hl=fr
-  email            : flore.sentenac(at)ensae.fr
+  googlescholar    : https://scholar.google.com/citations?user=wloKPvwAAAAJ&hl=fr&oi=ao
+  email            : julien.chhor(at)hsph.harvard.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
