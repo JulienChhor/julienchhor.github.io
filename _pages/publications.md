@@ -5,20 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Conferences
 
-[Decentralized Learning in Online Queuing Systems](https://arxiv.org/abs/2106.04228) <br/>
-Etienne Boursier, Flore Sentenac, Vianney Perchet. NeurIPS 2021 (spotlight)
+## Minimax Testing 
 
-[Online Matching in Sparse Random Graphs: Non-Asymptotic Performances of Greedy Algorithm](https://arxiv.org/abs/2107.00995) <br/>
-Nathan Noiry, Flore Sentenac, Vianney Perchet. NeurIPS 2021
+[Sharp Local Minimax Rates for Goodness-of-Fit Testing in multivariate Binomial and Poisson families and in multinomials](https://arxiv.org/abs/2012.13766)  
+Julien Chhor, Alexandra Carpentier. To appear in Mathematical Statistics and Learning.
 
 
-[Pure Exploration and Regret Minimization in Matching Bandits](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=10348)<br/>
-Flore Sentenac, Jialin Yi, Clément Calauzènes, Vianney Perchet, Milan Vojnovic. ICML 2021
+[Goodness-of-Fit Testing for Hölder-Continuous Densities: Sharp Local Minimax Rates](https://arxiv.org/abs/2109.04346)  
+Julien Chhor, Alexandra Carpentier.
 
-# Preprints
+## Robustness and local differential privacy
 
-[Robust Estimation of Discrete Distributions under Local Differential Privacy](https://arxiv.org/abs/2202.06825) <br/>
-Julien Chhor, Flore Sentenac. February 2022
- 
+[Robust Estimation of Discrete Distributions under Local Differential Privacy](https://arxiv.org/abs/2202.06825)  
+Julien Chhor and Flore Sentenac
+
+## Benign overfitting
+
+[Benign overfitting and adaptive nonparametric regression](https://arxiv.org/abs/2206.13347)  
+Julien Chhor, Suzanne Sigalla and Alexandre Tsybakov
