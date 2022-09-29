@@ -16,4 +16,4 @@ from ENS Paris-Saclay.
 ------
 
 
-[Download CV here](/files/CV_flore_sentenac.pdf)
+[Download CV here](/files/CV_Julien_CHHOR.pdf)
