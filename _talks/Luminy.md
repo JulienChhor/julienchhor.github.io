@@ -3,7 +3,7 @@ title: "Goodness-of-fit testing for multinomials and densities: sharp local mini
 collection: talks
 type: "Invited talk"
 venue: "Meeting in Mathematical Statistics, CIRM Luminy, France"
-date: December 2022
+date: December 2020
 location: "Online"
 ---
 
