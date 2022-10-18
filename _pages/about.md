@@ -15,5 +15,7 @@ from ENS Paris-Saclay.
 
 ------
 
+My PhD Thesis can be found [here](/files/Thesis_Julien_CHHOR.pdf)
+
 
 [Download CV here](/files/CV_Julien_CHHOR.pdf)
