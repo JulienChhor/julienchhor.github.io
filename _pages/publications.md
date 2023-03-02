@@ -15,7 +15,7 @@ Julien Chhor, Alexandra Carpentier. Mathematical Statistics and Learning.
 [Goodness-of-Fit Testing for Hölder-Continuous Densities: Sharp Local Minimax Rates](https://arxiv.org/abs/2109.04346)  
 Julien Chhor, Alexandra Carpentier.
 
-[Sparse Signal Detection in Heteroscedastic Gaussian Sequence Models: Sharp Minimax Rates](https://arxiv.org/abs/2211.08580)
+[Sparse Signal Detection in Heteroscedastic Gaussian Sequence Models: Sharp Minimax Rates](https://arxiv.org/abs/2211.08580)  
 Julien Chhor, Rajarshi Mukherjee, Subhabrata Sen.
 
 ## Robustness and local differential privacy
