@@ -16,7 +16,7 @@ Julien Chhor, Alexandra Carpentier. Mathematical Statistics and Learning.
 Julien Chhor, Alexandra Carpentier.
 
 [Sparse Signal Detection in Heteroscedastic Gaussian Sequence Models: Sharp Minimax Rates](https://arxiv.org/abs/2211.08580)  
-Julien Chhor, Rajarshi Mukherjee, Subhabrata Sen.
+Julien Chhor, Rajarshi Mukherjee, Subhabrata Sen. To appear in Bernoulli.
 
 ## Robustness and local differential privacy
 
