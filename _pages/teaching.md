@@ -5,8 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+I am lecturing a course on Stochastic Methods for Optimization and Sampling.
 
-I have been a Teaching Assistant for the following courses at ENSAE:
+During my PhD, I was a Teaching Assistant for the following courses at ENSAE:
 
 - Measure Theory, 1st year (L3)
 
