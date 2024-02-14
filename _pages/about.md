@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor at Toulouse School of Economics. 
+I am an Assistant Professor at Toulouse School of Economics.  
 I did my postdoc at Harvard University under the supervision of Prof. Rajarshi Mukherjee and Prof. Subhabrata Sen. During my PhD I was advised by Prof. Alexandre Tsybakov (CREST/ENSAE). 
 I am interested in various topics such as minimax testing, local differential privacy, robust statistics, benign overfitting, nonparametric regression or low-rank tensor estimation.
 
