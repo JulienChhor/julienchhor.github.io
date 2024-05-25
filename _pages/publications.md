@@ -26,7 +26,9 @@ Julien Chhor and Flore Sentenac. Algorithmic Learning Theory, 2023.
 ## Benign overfitting
 
 [Benign overfitting and adaptive nonparametric regression](https://arxiv.org/abs/2206.13347) 
+Julien Chhor, Suzanne Sigalla, Alexandre B. Tsybakov, to appear in Probability Theory and Related Fields, 2024.
 
 ## High-dimensional statistics
 
 [Generalized multi-view model: Adaptive density estimation under low-rank constraints](https://arxiv.org/abs/2404.17209)
+Julien Chhor, Olga Klopp, Alexandre B. Tsybakov.
