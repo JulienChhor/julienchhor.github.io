@@ -5,7 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I am lecturing a course on Stochastic Methods for Optimization and Sampling.
+# Lectures 
+
+I am lecturing a course on Stochastic Methods for Optimization and Sampling at TSE.
+
+
+# Exercise sessions
 
 During my PhD, I was a Teaching Assistant for the following courses at ENSAE:
 
