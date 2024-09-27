@@ -18,6 +18,10 @@ Julien Chhor, Alexandra Carpentier, in revision in Bernoulli.
 [Sparse Signal Detection in Heteroscedastic Gaussian Sequence Models: Sharp Minimax Rates](https://arxiv.org/abs/2211.08580)  
 Julien Chhor, Rajarshi Mukherjee, Subhabrata Sen. Bernoulli, 2023.
 
+[Locally sharp goodness-of-fit testing in sup norm for high-dimensional counts](https://arxiv.org/abs/2409.08871)
+
+Subhodh Kotekal, Julien Chhor, Chao Gao, 2024.
+
 ## Robustness and local differential privacy
 
 [Robust Estimation of Discrete Distributions under Local Differential Privacy](https://arxiv.org/abs/2202.06825)  
