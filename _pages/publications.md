@@ -13,7 +13,7 @@ Julien Chhor, Alexandra Carpentier. Mathematical Statistics and Learning, 2022.
 
 
 [Goodness-of-Fit Testing for Hölder-Continuous Densities: Sharp Local Minimax Rates](https://arxiv.org/abs/2109.04346)  
-Julien Chhor, Alexandra Carpentier, in revision in Bernoulli.
+Julien Chhor, Alexandra Carpentier, to appear in Bernoulli, 2024.
 
 [Sparse Signal Detection in Heteroscedastic Gaussian Sequence Models: Sharp Minimax Rates](https://arxiv.org/abs/2211.08580)  
 Julien Chhor, Rajarshi Mukherjee, Subhabrata Sen. Bernoulli, 2023.
