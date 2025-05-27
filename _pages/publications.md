@@ -9,6 +9,7 @@ author_profile: true
 ## Minimax Testing 
 
 [Optimal community detection in dense bipartite graphs](https://arxiv.org/abs/2505.18372)
+
 Julien Chhor, Parker Knight, 2025.
 
 [Locally sharp goodness-of-fit testing in sup norm for high-dimensional counts](https://arxiv.org/abs/2409.08871)
