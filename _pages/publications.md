@@ -48,6 +48,13 @@ Julien Chhor, Suzanne Sigalla, Alexandre B. Tsybakov, Probability Theory and Rel
 
 ## High-dimensional statistics
 
+[Revisit CP Tensor Decomposition: Statistical Optimality and Fast Convergence](https://arxiv.org/abs/2505.23046)
+
+Runshi Tang, Julien Chhor, Olga Klopp, Anru R. Zhang, 2025
+
 [Generalized multi-view model: Adaptive density estimation under low-rank constraints](https://arxiv.org/abs/2404.17209)
 
-Julien Chhor, Olga Klopp, Alexandre B. Tsybakov.
+Julien Chhor, Olga Klopp, Alexandre B. Tsybakov, 2024.
+
+
+
