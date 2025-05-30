@@ -32,7 +32,7 @@ Julien Chhor, Alexandra Carpentier. Mathematical Statistics and Learning, 2022.
 ## Robustness and local differential privacy
 [On the Private Estimation of Smooth Transport Maps](https://arxiv.org/abs/2502.01168)
 
-Clément Lalanne, Franck Iutzeler, Jean-Michel Loubes, Julien Chhor, 2025
+Clément Lalanne, Franck Iutzeler, Jean-Michel Loubes, Julien Chhor, ICML 2025, to appear.
 
 [Robust Estimation of Discrete Distributions under Local Differential Privacy](https://arxiv.org/abs/2202.06825)  
 
