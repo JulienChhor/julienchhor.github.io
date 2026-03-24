@@ -5,19 +5,35 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Lectures 
+# Stochastic optimization and sampling (TSE)
 
 I am lecturing a course on Stochastic Methods for Optimization and Sampling at TSE.
 
 [Lecture notes](/files/TeachingResources/Stochastic-Optim-and-Sampling/Lecture-notes.pdf)
 
-## Slides
+### Slides
 
 [Slides 1 - Stochastic optimization](files/TeachingResources/Stochastic-Optim-and-Sampling/Slides/Slides-stochastic-algorithms.pdf)
 
 [Slides 2 - Sampling](files/TeachingResources/Stochastic-Optim-and-Sampling/Slides/Slides-sampling.pdf)
 
 [Slides 3 - MCMC methods](files/TeachingResources/Stochastic-Optim-and-Sampling/Slides/Slides-MCMC.pdf)
+
+### Exercises
+
+[Exercise]
+
+[Exercise 1: Minibatch SGD](files/TeachingResources/Stochastic-Optim-and-Sampling/Exercises/Exercise-Minibatch-SGD.pdf)
+
+[Solution](files/TeachingResources/Stochastic-Optim-and-Sampling/Exercises/Exercise-minibatch-SGD-Solution.pdf)
+
+[Exercise 2: Convergence of Adagrad](files/TeachingResources/Stochastic-Optim-and-Sampling/Exercises/Adagrad.pdf)
+
+[Solution](files/TeachingResources/Stochastic-Optim-and-Sampling/Exercises/Adagrad-solution.pdf)
+
+[Additional exercise: Adam](files/TeachingResources/Stochastic-Optim-and-Sampling/Exercises/Adam.pdf)
+
+[Solution](files/TeachingResources/Stochastic-Optim-and-Sampling/Exercises/Adam-solution.pdf)
 
 
 # Exercise sessions
