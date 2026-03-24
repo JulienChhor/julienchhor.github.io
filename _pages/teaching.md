@@ -45,9 +45,9 @@ I am lecturing a course on Stochastic Methods for Optimization and Sampling at T
 
 ### Past exam
 
-[Exam 2025](files/TeachingResources/Stochastic-Optim-and-Sampling/Exam 2025.pdf)
+[Exam 2025](files/TeachingResources/Stochastic-Optim-and-Sampling/Exam-2025.pdf)
 
-[Solution](files/TeachingResources/Stochastic-Optim-and-Sampling/Exam 2025 solution.pdf)
+[Solution](files/TeachingResources/Stochastic-Optim-and-Sampling/Exam-2025-solution.pdf)
 
 
 # Exercise sessions
