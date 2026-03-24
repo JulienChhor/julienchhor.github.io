@@ -15,6 +15,10 @@ I am lecturing a course on Stochastic Methods for Optimization and Sampling at T
 
 [Slides 1 - Stochastic optimization](files/TeachingResources/Stochastic-Optim-and-Sampling/Slides/Slides-stochastic-algorithms.pdf)
 
+[Slides 2 - Sampling](files/TeachingResources/Stochastic-Optim-and-Sampling/Slides/Slides-sampling.pdf)
+
+[Slides 3 - MCMC methods](files/TeachingResources/Stochastic-Optim-and-Sampling/Slides/Slides-MCMC.pdf)
+
 
 # Exercise sessions
 
