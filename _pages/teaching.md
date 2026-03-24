@@ -13,7 +13,7 @@ I am lecturing a course on Stochastic Methods for Optimization and Sampling at T
 
 ## Slides
 
-[Slides 1 - Stochastic optimization](files/TeachingResources/Stochastic Optim and Sampling/Slides/Slides 1 - Slides stochastic algorithms.pdf)
+[Slides 1 - Stochastic optimization](files/TeachingResources/Stochastic-Optim-and-Sampling/Slides/Slides 1 - Slides stochastic algorithms.pdf)
 
 
 # Exercise sessions
