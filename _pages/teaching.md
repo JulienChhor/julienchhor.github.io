@@ -53,7 +53,7 @@ I am lecturing an M1 course on Stochastic Methods for Optimization and Sampling 
 
 I am lecturing an M1 course on Martingale Theory at TSE.
 
-[Slides](/files/TeachingResources/MartingaleTheory)
+[Slides](/files/TeachingResources/MartingaleTheory/Slides.pdf)
 
 
 # Exercise sessions (ENSAE)
