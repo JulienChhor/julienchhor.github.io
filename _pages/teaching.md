@@ -23,7 +23,7 @@ I am lecturing a course on Stochastic Methods for Optimization and Sampling at T
 
 
 
-[Exercise session 1: Minibatch SGD](/files/TeachingResources/Stochastic-Optim-and-Sampling/Exercises/Exercise-Minibatch-SGD.pdf) 
+[Exercise session 1: Minibatch SGD](/files/TeachingResources/Stochastic-Optim-and-Sampling/Exercises/Exercise-Minibatch-SGD.pdf) &nbsp; 
 [Solution](/files/TeachingResources/Stochastic-Optim-and-Sampling/Exercises/Exercise-minibatch-SGD-Solution.pdf)
 
 [Exercise session 2: Convergence of Adagrad](/files/TeachingResources/Stochastic-Optim-and-Sampling/Exercises/Adagrad.pdf)
