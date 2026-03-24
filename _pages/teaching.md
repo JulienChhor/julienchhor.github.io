@@ -7,7 +7,7 @@ author_profile: true
 
 # Stochastic optimization and sampling (TSE)
 
-I am lecturing a course on Stochastic Methods for Optimization and Sampling at TSE.
+I am lecturing an M1 course on Stochastic Methods for Optimization and Sampling at TSE.
 
 [Lecture notes](/files/TeachingResources/Stochastic-Optim-and-Sampling/Lecture-notes.pdf)
 
@@ -49,8 +49,14 @@ I am lecturing a course on Stochastic Methods for Optimization and Sampling at T
 
 [Solution](/files/TeachingResources/Stochastic-Optim-and-Sampling/Exam-2025-solution.pdf)
 
+# Martingale Theory (TSE)
 
-# Exercise sessions
+I am lecturing an M1 course on Martingale Theory at TSE.
+
+[Slides](\files/TeachingResources/MartingaleTheory)
+
+
+# Exercise sessions (ENSAE)
 
 During my PhD, I was a Teaching Assistant for the following courses at ENSAE:
 
