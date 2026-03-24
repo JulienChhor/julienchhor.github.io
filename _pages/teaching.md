@@ -9,6 +9,12 @@ author_profile: true
 
 I am lecturing a course on Stochastic Methods for Optimization and Sampling at TSE.
 
+[Lecture notes](files/TeachingResources/Stochastic Optim and Sampling/Lecture notes.pdf)
+
+## Slides
+
+[Slides 1 - Stochastic optimization](files/TeachingResources/Stochastic Optim and Sampling/Slides/Slides 1 - Slides stochastic algorithms.pdf)
+
 
 # Exercise sessions
 
