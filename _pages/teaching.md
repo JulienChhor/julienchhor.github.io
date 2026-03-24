@@ -23,24 +23,19 @@ I am lecturing a course on Stochastic Methods for Optimization and Sampling at T
 
 
 
-[Exercise session 1: Minibatch SGD](/files/TeachingResources/Stochastic-Optim-and-Sampling/Exercises/Exercise-Minibatch-SGD.pdf)
-
+[Exercise session 1: Minibatch SGD](/files/TeachingResources/Stochastic-Optim-and-Sampling/Exercises/Exercise-Minibatch-SGD.pdf) 
 [Solution](/files/TeachingResources/Stochastic-Optim-and-Sampling/Exercises/Exercise-minibatch-SGD-Solution.pdf)
 
 [Exercise session 2: Convergence of Adagrad](/files/TeachingResources/Stochastic-Optim-and-Sampling/Exercises/Adagrad.pdf)
-
 [Solution](/files/TeachingResources/Stochastic-Optim-and-Sampling/Exercises/Adagrad-solution.pdf)
 
 [Additional exercise: Adam](/files/TeachingResources/Stochastic-Optim-and-Sampling/Exercises/Adam.pdf)
-
 [Solution](/files/TeachingResources/Stochastic-Optim-and-Sampling/Exercises/Adam-solution.pdf)
 
 [Exercise session 3](/files/TeachingResources/Stochastic-Optim-and-Sampling/Exercises/Exercises-sampling.pdf)
-
 [Solution](/files/TeachingResources/Stochastic-Optim-and-Sampling/Exercises/Sampling-solution.pdf)
 
 [Exercise session 4-5](/files/TeachingResources/Stochastic-Optim-and-Sampling/Exercises/MCMC.pdf)
-
 [Solution](/files/TeachingResources/Stochastic-Optim-and-Sampling/Exercises/MCMC-solution.pdf)
 
 ### Past exam
